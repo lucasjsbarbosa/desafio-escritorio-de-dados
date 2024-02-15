@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório contém minha solução para o desafio técnico proposto pelo Escritório Municipal de Dados do Rio de Janeiro, visando a posição de Cientista de Dados Júnior. O desafio envolveu a manipulação de dados, consultas SQL, análise de dados com Python e a criação de visualizações de dados utilizando ferramentas como BigQuery e Looker Studio.
+Este repositório contém minha solução para o desafio técnico proposto pelo Escritório Municipal de Dados do Rio de Janeiro, visando a posição de Cientista de Dados Júnior. O desafio envolveu a manipulação de dados, consultas SQL, análise de dados com Python e a criação de visualizações de dados utilizando ferramentas como BigQuery e Looker Studio. Todas as perguntas foram respondidas em seus devidos arquivos.
 
 ## Estrutura do Repositório
 
