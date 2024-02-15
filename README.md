@@ -8,7 +8,7 @@ Este repositório contém minha solução para o desafio técnico proposto pelo 
 
 - `analise_sql.sql`: Contém todas as consultas SQL utilizadas para responder às perguntas específicas do desafio, executadas no BigQuery.
 - `analise_python.ipynb`: Script Python com análises realizadas utilizando a biblioteca pandas para responder às perguntas do desafio.
-- `visualizacoes/`: Diretório link do Dashboard Looker que foi integrado com BigQuery e print da query utilizada.
+- `visualizacao/`: Link no readme direto para o dashboard.
 - `README.md`: Este documento, fornecendo uma visão geral do projeto, instruções de uso e qualquer outra informação relevante.
 
 ## Objetivos do Desafio
@@ -25,10 +25,10 @@ O desafio focou em realizar análises exploratórias em conjuntos de dados públ
 
 - **Google Cloud Platform (GCP)** para acessar e consultar dados no BigQuery.
 - **Python** para análise de dados e manipulação.
-- **Looker Studio** para criação de visualizações de dados.
+- **Looker Studio** para criação de visualizações de dados (dashboards).
 ## Visualizações Criadas
 
-Descrição breve de cada visualização criada, incluindo o objetivo e insights obtidos. Para acessar o dashboard completo, veja o diretório `visualizacoes/`.
+[Dashboard - Gestão de Chamados e Serviços Urbanos](https://lookerstudio.google.com/reporting/23f92082-2883-4179-be19-fd92c613002c)
 
 ## Execução do Projeto
 
@@ -44,7 +44,7 @@ Descrição breve de cada visualização criada, incluindo o objetivo e insights
 
 ### Visualizações
 
-As visualizações de dados podem ser acessadas diretamente através do link compartilhado ou visualizando as capturas de tela no diretório `visualizacoes/`.
+As visualizações de dados podem ser acessadas diretamente através do link compartilhado na seção anterior.
 
 ## Contato
 
